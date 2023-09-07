@@ -1,5 +1,5 @@
 {
-  "repository": "ng-select/ng-select",
+  "repository": "https://github.com/mustafa-kpi/ng-select5.git",
   "engines": {
     "node": ">= 16.20.0",
     "npm": ">= 8.19.4"
